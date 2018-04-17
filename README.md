@@ -1,4 +1,4 @@
-# j12
+# j12 : Group Project (scraping, mailing, bot)
 
 
 Hello everyone,
