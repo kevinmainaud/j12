@@ -7,9 +7,9 @@ This is our group project dividing in few exercices :
 
 
 1. Scrapping datas from french townhalls
-2. Senging emails to townhalls
+2. Sending emails to townhalls
 3. Listing all the twitter townhalls accounts
-4. Working on differents branchs in the same time
+4. Working on differents branchs in the same time to merge it at the end 
 
 
 The project has been made by the following people : 
@@ -25,7 +25,7 @@ The project has been made by the following people :
 
 
 
-To get the different keys access and as Dotenv wasn't working well, please write to one of us on Slack to get the codes.
+To get the different keys access and as Dotenv wasn't working well, please write to one of us on Slack to get the access codes.
 
 
 The Hacking Project / Session 2018
